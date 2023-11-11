@@ -1,5 +1,3 @@
-package Poly_With_Objects;
-
 public class Cat extends Animal {
 
     @Override
