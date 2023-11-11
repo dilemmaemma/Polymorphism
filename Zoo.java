@@ -1,5 +1,3 @@
-package Poly_With_Objects;
-
 public class Zoo {
     public static void main(String[] args) {
         Animal sasha = new Dog();
